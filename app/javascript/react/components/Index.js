@@ -1,9 +1,9 @@
 import React from 'react';
 
-const BooYaa = props => {
+const Index = props => {
   return(
     <h1>Boo yaa</h1>
   )
 }
 
-export default BooYaa
+export default Index
